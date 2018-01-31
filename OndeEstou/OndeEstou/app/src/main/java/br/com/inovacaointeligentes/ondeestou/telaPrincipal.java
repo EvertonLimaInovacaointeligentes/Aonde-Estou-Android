@@ -17,7 +17,10 @@ import java.util.List;
 
 import br.com.inovacaointeligentes.ondeestou.dao.PessoaDao;
 import br.com.inovacaointeligentes.ondeestou.modelo.Pessoa;
-
+/**
+ * Created by Everton Lima on 30/01/2018.
+ tela java chamada no oncreate do android
+ */
 public class telaPrincipal extends AppCompatActivity {
 
     private ListView visao;

@@ -3,7 +3,8 @@ package br.com.inovacaointeligentes.ondeestou.modelo;
 import java.io.Serializable;
 
 /**
- * Created by edwin on 24/07/2017.
+ * Created by Everton Lima on 30/01/2018.
+ classe BAsica pessoa
  */
 
 public class Pessoa implements Serializable

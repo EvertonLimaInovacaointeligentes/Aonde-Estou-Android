@@ -7,8 +7,8 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical">
-
-
+<!--projeto Criado Por Everton Lima email:inovacaointeligentes@gmail.com-->
+<!--Formulario de cadastro usuario-->
         <EditText
             android:id="@+id/formulario_nome"
             android:hint="Nome"

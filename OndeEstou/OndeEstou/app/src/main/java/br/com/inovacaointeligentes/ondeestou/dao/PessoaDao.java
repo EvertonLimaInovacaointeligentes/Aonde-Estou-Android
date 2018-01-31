@@ -13,7 +13,8 @@ import java.util.List;
 import br.com.inovacaointeligentes.ondeestou.modelo.Pessoa;
 
 /**
- * Created by edwin on 24/07/2017.
+ * Created by Everton Lima on 30/01/2018.
+ classe banco de dados SQLLite
  */
 
 public class PessoaDao extends SQLiteOpenHelper {

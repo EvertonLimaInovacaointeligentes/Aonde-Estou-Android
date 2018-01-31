@@ -2,7 +2,8 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="br.com.alura.agenda.FormularioActivity">
-
+<!--projeto Criado Por Everton Lima email:inovacaointeligentes@gmail.com-->
+<!--Menu aonde tem os botoes salvar e cancelar-->
     <item android:id="@+id/menu_formulario_cancelar" android:title="cancelar"
         android:icon="@drawable/ic_cancelar" app:showAsAction="always"/>
     <item android:id="@+id/menu_formulario_ok" android:title="OK"

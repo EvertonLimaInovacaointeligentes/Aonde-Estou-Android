@@ -18,7 +18,8 @@ import br.com.inovacaointeligentes.ondeestou.modelo.Pessoa;
 public class Formulario extends AppCompatActivity {
 
     private FormularioHelper helper;
-
+//projeto Criado Por Everton Lima email:inovacaointeligentes@gmail.com
+//tela inicial aonde lista todos os usuarios cadastrados aonde tem preencheFormulario
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -35,6 +36,7 @@ public class Formulario extends AppCompatActivity {
 
 
     }
+	//chamando estilos dos botoes do xml menu_formulario
     public boolean onCreateOptionsMenu(Menu menu){
         MenuInflater inflater=getMenuInflater();
         inflater.inflate(R.menu.menu_formulario,menu);
@@ -42,6 +44,7 @@ public class Formulario extends AppCompatActivity {
         return super.onCreateOptionsMenu(menu);
     }
 
+	//metodo para inserir usuario novo e allterar usuario existente com avisos de acordo com o evento chamado
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {

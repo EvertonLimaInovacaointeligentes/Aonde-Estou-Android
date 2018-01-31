@@ -1,7 +1,8 @@
 package br.com.inovacaointeligentes.ondeestou.modelo;
 
 /**
- * Created by edwin on 24/07/2017.
+ * Created by Everton Lima on 30/01/2018.
+ classe login para logar na aplicação a tela vai ser desenvolvida na versao desse projeto 1.1 a versao atual desse projeto é a versão : 1.0
  */
 
 public class Login {

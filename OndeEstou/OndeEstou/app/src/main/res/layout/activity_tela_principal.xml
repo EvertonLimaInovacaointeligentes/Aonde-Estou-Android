@@ -9,7 +9,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/lista_novo">
-
+<!--projeto Criado Por Everton Lima email:inovacaointeligentes@gmail.com-->
+<!--Tela principal aonde lista os usuarios cadastrados e abaixo o botao adicionar novo usuario-->
     </ListView>
     <Button
         android:id="@+id/lista_btNovoAluno"
